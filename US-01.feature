@@ -1,4 +1,4 @@
-Scenario: Registro del arrendadatario de forma exitosa
-GIVEN: Dado que el usuario se registra como arrendatario exitosamente.
-WHEN: Cuando se realice el registro de los datos del arrendatario en el aplicativo de manera exitosa.
-THEN: Entonces el usuario podrá iniciar a arrendar sus locales.
+scenario: Estadístoca de la aplicación.
+GIVEN: Dado que los usuario quieren poder visualizar las vistas a los locales, la tendencia, las veces compartidas, comentarios, calificación, etc.
+WHEN: Cuando realiza cambios a los precios o locales  
+THEN: Entonces atraen más gente
